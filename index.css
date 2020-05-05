@@ -1,0 +1,332 @@
+/*header section includes logo and menus css starts here*/
+body{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    font-family: axiforma-regular,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+}
+#headerBlock{
+    background-color:#333545;
+}
+
+ .leftBlock svg{
+    height: 90px;
+    margin-bottom: -4px;
+    margin-left: 58px;
+    background-color: #333545;
+}
+.leftmenu input{
+    margin-left: 193px;
+    padding-bottom: -44px;
+    margin-top: -63px;
+    position: absolute;
+    height: 31px;
+    width: 491px
+}
+.leftmenu .__icon search-icon{
+    position: absolute;
+    top: 50%;
+    left: 12px;
+    margin-top: -7.5px;
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    margin-left: 10px;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font-weight: 400;
+    vertical-align: baseline;
+    background: 0 0;
+    -webkit-box-sizing: inherit;
+}
+#RightBlock #spnSelectedRegion .__region{
+    color: white;
+    line-height: 16px;
+    padding-left: 1022px;
+}
+.RightBlock ul{
+    text-decoration: none;
+    padding-left: 1022px;
+    color: white;
+    margin-top: -58px;
+    padding-top: -71px;
+    position: absolute;
+    font-size: 18px;
+}
+
+.RightBlock h1{
+    color: white;
+    font-size: 16px;
+    padding-left: 1125px;
+    margin-top: -57px;
+    position: absolute;
+}
+.loginGoBtn{
+    display: inline-block;
+    background: 0 0;
+    color: #fff;
+    font-size: 12px;
+    padding: 0!important;
+    height: 25px;
+    width: 67px;
+    border-radius: 4px;
+    border: 1px solid #fff;
+    line-height: 25px;
+    text-align: center;
+    margin-right: 54px;
+    margin-top: -55px;
+    float: right;
+}
+/*header section includes logo and menus css ends here*/
+
+/*second section  css starts here*/
+#secondBlock article .leftBlock  li{
+    background-color:#1f2533;
+    padding: 10px 7px;
+    list-style: none;
+}
+#secondBlock article .leftBlock  li a{
+    text-decoration: none;
+    padding-left: 5px;
+    background-color: #1f2533;
+    color: #ccc;
+    font-weight: 400;
+    font-size: 14px;
+    width: 100%;
+    height: 100%;
+    background-color:#1f2533;
+    padding-left: 62px;
+    padding-right: -3px;
+}
+/*second section  css ends here*/
+
+/*Third section css starts here*/
+#ThirdBlock article div img{
+    height: 439px;
+    width: 675px;
+    
+}
+.leftmenu img{
+    float: right;
+    position: absolute;
+    padding-left: 995px;
+    margin: -442px;
+
+    width: 690px;
+    height: 439px;
+    padding-left: 1115px;
+}
+
+/*Third section css ends here*/
+/*Four section css starts here*/
+#FourBlock{
+    background: url(../img/img5.JPG);
+    height: 380px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#FourBlock header h1{
+    color: white;
+    padding-left: 54px;
+    padding-top: 156px;
+    font-size: 35px;
+}
+p{
+    color: white;
+    padding-left: 56px;
+    font-size: 18px;
+}
+.leftBlock ul a{
+color: white;
+ text-decoration: none;
+ padding-left: 18px;
+ font-size: 20px;
+}
+.RightBlock form {
+    background:#fff;
+    padding: 30px 40px;
+    width: 20%;
+    margin: 50px auto;
+    height: 195px;
+    border-radius:5px;
+    color: #777;
+    padding-left: 74px;
+    margin-left: 833px;
+    margin-top: -257px;
+    font-family: Roboto,sans-serif!important;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 15px;
+    vertical-align: middle;
+    padding: 25px 16px 10px;
+    box-sizing: inherit;
+}
+button{
+    background:#008cff;
+    border:none;
+    margin:20px 0;
+    color:#fff;
+    padding:10px 20px;
+    font-size:17px;
+    font-weight:bold;
+    border-radius:5px;
+    width:100%;
+}
+
+/*Four section css ends here*/
+/*Five section css starts here*/
+#FiveBlock article .heading{
+    background-color: white;
+    padding-left: 59px;
+    padding-top: 63px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: .9px;
+    color: #555;
+    text-align: center;
+}
+/*Five section css ends here*/
+
+/*six section css starts here*/
+#SixBlock article p img{
+    padding-left: 85px;
+    margin-right: 17px;
+    padding-top: 50px;
+}
+/*six section css ends here*/
+
+/*Seven section css starts here*/
+#SevenBlock article{
+    background-color: #eee;
+}
+#SevenBlock article main .firstOne .inside{
+    height: 100px;
+    width: 100px;
+}
+#SevenBlock article main .firstOne .inside h4{
+    padding-left: 90px;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 32px;
+    margin-bottom: 16px;
+    padding-top: 8px;
+}
+#SevenBlock article main .firstOne .inside p{
+    line-height: 22px;
+    letter-spacing: 1px;
+    padding-left: 95px;
+    color: #555;
+}
+#SevenBlock article main .secondOne .inside h4{
+    margin-top: -97px;
+    padding-left: 289px;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 32px;
+    margin-bottom: 16px;
+    padding-top: 8px;  
+}
+#SevenBlock article main .secondOne .inside p{
+    line-height: 22px;
+    letter-spacing: 1px;
+    padding-left: 275px;
+    color: #555;
+}
+#SevenBlock article main .ThirdOne .inside h4{
+    padding-left: 500px;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 32px;
+    margin-bottom: 16px;
+    padding-top: 0px; 
+    margin-top: -86px;
+}
+#SevenBlock article main  .ThirdOne .inside p{
+    
+    line-height: 21px;
+    letter-spacing: 1px;
+    padding-left: 478px;
+    color: #555;
+}
+#SevenBlock article main .FourOne .inside h4{
+    padding-left: 756px;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 32px;
+    margin-bottom: 16px;
+    padding-top: 0px;
+    margin-top: -132px;
+}
+#SevenBlock article main .FourOne .inside p{ 
+    line-height: 21px;
+    letter-spacing: 1px;
+    padding-left: 760px;
+    color: #555;
+}
+#SevenBlock article main .FiveOne .inside h4{
+padding-left:1078px;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 32px;
+    margin-bottom: 16px;
+    padding-top: 0px;
+    margin-top: -132px;
+}
+#SevenBlock article main .FiveOne .inside p{
+    padding-left: 1077px;
+    line-height: 21px;
+    letter-spacing: 1px;
+    color: #555;
+}
+/*Seven section css starts here*/
+
+/*Eight section css starts here*/
+#EightBlock article main .leftmenu .topic{
+    padding-top: 25px;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: #555;
+    padding-bottom: 5px;
+    padding-left: 25px;
+}
+#EightBlock article main .leftmenu .usecase-title{
+    font-size: 36px;
+    font-weight: 500;
+    color: #333;
+    padding-bottom: 16px;
+    line-height: 48px;
+    padding-left: 25px;
+}
+#EightBlock article main .leftmenu .usecase-detail{
+    font-size: 20px;
+    line-height: 34px;
+    color: #555;
+    padding-bottom: 32px;
+    padding-left: 25px;
+}
+
+#EightBlock article main .leftmenu .action-button promotions{
+    width: 271px;
+    height: 50px;
+    border-radius: 4px;
+    border: 1px solid #0378ff;
+}
+#EightBlock article main .leftmenu .text{
+    padding-left: 162px;
+    font-weight: 500;
+    margin: 0;
+    line-height: 50px;
+    cursor: pointer;
+    color: #0378ff;
+    border: 1px solid #0378ff;
+    width: 418px;
+}
+.RightBlock img{
+    
+    width: 732px;
+    padding-left: 1057px;
+    padding-top: 110px;
+}
